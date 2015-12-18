@@ -22,9 +22,10 @@ header{
   #drop-nav li ul li {border-top: 0px;}
 </style>
 body{
-	background-color: #f0f0f0;
+	background-color: #cccccc;
 	font-size: 14px;
 	font-color:#000000;
+	margin:0;
 }
 #wrapper{
 	width: 800px;
@@ -43,9 +44,10 @@ body{
 	margin-bottom; 5px;
 }
 #header{
-	background-color: #888;
+	background-color: #999;
 	height: 80px;
 	width: 100%;
+	border: 1px solid #888;
 }
 table{
 	text-align: center;
@@ -66,3 +68,30 @@ form div label{
 	margin: 0 auto;
 	text-align: center;
 }	
+.body{
+	background-image: url(busblue.jpg);
+	background-repeat: none;
+	background-position: center;
+	background-position: absolute;
+	color: #555;
+	margin: 0 auto;
+	padding: 15px;
+}
+.body1{
+	background-image: url(busblue1.jpg);
+	background-position: center;
+	background-size: 100%;
+	margin: 0 auto;
+	padding: 15px;
+	height: 1000px;
+}
+table tr th{
+	background-color: #888;
+	margin: 0 auto;
+	padding: 10px;
+}
+table tr td{
+	background-color: #999;
+	margin: 0 auto;
+	padding: 10px;
+}
