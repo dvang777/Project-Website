@@ -47,3 +47,11 @@ body{
 	height: 80px;
 	width: 100%;
 }
+table{
+	text-align: center;
+	table-layout: fixed;
+}
+.row{
+	width: 10%;
+}
+	
