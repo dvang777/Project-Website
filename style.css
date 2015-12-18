@@ -54,4 +54,15 @@ table{
 .row{
 	width: 10%;
 }
-	
+form{
+	width: 290px;
+	margin:0 auto;
+	text-align: center;
+
+}
+form div label{
+	position:absolute;
+	width: 250px;
+	margin: 0 auto;
+	text-align: center;
+}	
